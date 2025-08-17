@@ -2,6 +2,35 @@
 
 **`Estudante de Programação`**
 
+Meu nome é Mateus Pereira, tenho 27 anos e sou natural de São Paulo. Sou formado em Automação Industrial pela Fatec e atualmente curso Análise e Desenvolvimento de Sistemas na UNINTER. Durante minha primeira formação, tive contato com programação de microcontroladores e, a partir dessa experiência, nasceu minha paixão por tecnologia. Hoje, estou em processo de transição de carreira para a área de desenvolvimento de software, buscando aplicar meus conhecimentos, evoluir continuamente e construir soluções que gerem impacto positivo.
+
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 <!--
 **mateus-pereira1/mateus-pereira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
