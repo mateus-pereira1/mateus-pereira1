@@ -31,6 +31,16 @@ Meu nome é Mateus Pereira, tenho 27 anos e sou natural de São Paulo. Sou forma
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+    />
+          
 <!--
 **mateus-pereira1/mateus-pereira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
