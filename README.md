@@ -35,9 +35,6 @@ Meu nome é Mateus Pereira, tenho 27 anos e sou natural de São Paulo. Sou forma
 />
 
 
-    <br>
-    <br>
-
 ### Estatisticas 📈
 
 <p>
