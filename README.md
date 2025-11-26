@@ -53,6 +53,18 @@ Meu nome é Mateus Pereira, tenho 27 anos e sou natural de São Paulo. Sou forma
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-pereira1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding-right: 10px;" 
+      src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-pereira1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9](https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png)" 
+  />
+
+
+
+  
   </p>
           
 <!--
