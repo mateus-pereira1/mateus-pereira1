@@ -6,7 +6,7 @@
 
 <p align="left">
   Me chamo <strong>Mateus Periera</strong>, tenho 28 anos e sou natural de São Paulo. Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> pela UNINTER e estou em transição de carreira. Sou formado em Tecnologia em Automação Industrial, mas foi na programação que me encontrei de verdade. <br><br>
-  Apaixonado por tecnologia, solução de problemas e programação, tenho me aprofundado em <strong>JavaScript</strong> e <strong>React</strong> — sempre buscando evoluir como desenvolvedor e criar projetos que tragam valor real.
+  Apaixonado por tecnologia, solução de problemas e programação, tenho me aprofundado em <strong>JavaScript</strong> e <strong>React</strong> — sempre buscando evoluir como desenvolvedor e criar projetos para colocar em prática o que estudo.
 </p>
 
 ---
