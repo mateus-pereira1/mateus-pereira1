@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🛠️ Tecnologias e Linguagens
 
 <div style="display: flex; gap: 8px; flex-wrap: wrap;">  
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
