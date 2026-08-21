@@ -24,8 +24,8 @@
 
 ## 🧠 Sobre mim
 
-- 🔭 Estudando: **TypeScript**, **Next.js** e **Node.js**  
-- 💡 Interesses: Desenvolvimento web, performance, design e boas práticas  
+- 🔭 Estudando: **JavaScript** e **React**  
+- 💡 Interesses: Desenvolvimento, performance, design e boas práticas  
 - 🚀 Motivado a construir interfaces modernas e aplicações sólidas  
 - 🤝 Aberto a colaborar em projetos e trocar ideias sobre tecnologia
 
@@ -37,10 +37,7 @@
   <a href="https://www.linkedin.com/in/mateus-pereira-19353442b/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/decifrandobits/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:nathang.pulido98@outlook.com" target="_blank">
+  <a href="mailto:mateuspereira34884@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
