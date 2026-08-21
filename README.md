@@ -5,8 +5,8 @@
 </h1>
 
 <p align="left">
-  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e apaixonado por tecnologia, <strong>programação</strong> e solução de problemas.<br>
-  Atualmente estou estudando <strong>JavaScript</strong> e <strong>React</strong>, sempre buscando criar projetos que venham colocar em prática meus estudos.
+  Me chamo <strong>Mateus Periera</strong>, tenho 28 anos e sou natural de São Paulo. Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> pela UNINTER e estou em transição de carreira. Sou formado em Tecnologia em Automação Industrial, mas foi na programação que me encontrei de verdade. <br><br>
+  Apaixonado por tecnologia, solução de problemas e programação, tenho me aprofundado em <strong>JavaScript</strong> e <strong>React</strong> — sempre buscando evoluir como desenvolvedor e criar projetos que tragam valor real.
 </p>
 
 ---
